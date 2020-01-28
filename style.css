@@ -1,0 +1,25 @@
+.container{
+    width:1080px;
+    margin: 0 auto;
+    
+}
+.greenbox,.redbox,.bluebox {
+    width:100px;
+    height: 100px;
+    display:inline-block;
+    margin-right:30px;
+    color:gold;
+    font-size: 20px;
+    text-align: center;
+    
+    
+}
+.greenbox{
+    background:green;
+}
+.bluebox{
+    background:blue;
+}
+.redbox{
+    background:red;
+}
